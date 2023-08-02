@@ -1,0 +1,56 @@
+{
+  "info": {
+    " done": {
+      "address": 44,
+      "type": "<=u1"
+    },
+    "boss": {
+      "address": 1414,
+      "type": "|u1"
+    },
+    "boss2": {
+      "address": 1412,
+      "type": "|u1"
+    },
+    "boss3": {
+      "address": 1410,
+      "type": "|u1"
+    },
+    "boss4": {
+      "address": 953,
+      "type": ">n8"
+    },
+    "boss5": {
+      "address": 1413,
+      "type": "|u1"
+    },
+    "done1": {
+      "address": 44,
+      "type": "<=u1"
+    },
+    "life": {
+      "address": 50,
+      "type": "=<u2"
+    },
+    "playerstate": {
+      "address": 144,
+      "type": "=<u2"
+    },
+    "scatter": {
+      "address": 45,
+      "type": "><u4"
+    },
+    "score": {
+      "address": 2017,
+      "type": "<>i4"
+    },
+    "xscroll": {
+      "address": 100,
+      "type": ">i2"
+    },
+    "xscroll2": {
+      "address": 100,
+      "type": ">i2"
+    }
+  }
+}
